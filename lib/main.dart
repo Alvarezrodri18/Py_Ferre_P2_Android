@@ -9,7 +9,7 @@ class MyFerreteriaApp extends StatelessWidget {
         title: "Mi Ferreteria",
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
-          primarySwatch: Colors.orangeAccent,
+          primarySwatch: Colors.indigo,
         ), //Fin de theme
 
         //Ruta de ventanas
