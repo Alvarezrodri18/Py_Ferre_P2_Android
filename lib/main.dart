@@ -103,7 +103,7 @@ class Inicio extends StatelessWidget {
                           child: Text(
                             "INICIO",
                             textAlign: TextAlign.center,
-                            style: TextStyle(color: Colors.darkOrange, fontWeight: FontWeight.w900),
+                            style: TextStyle(color: Colors.deepOrangeAccent, fontWeight: FontWeight.w900),
                           ), //fin del center
                         ), //fin center
                       ), //fin sizedbox de inicio
